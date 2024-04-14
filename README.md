@@ -25,7 +25,7 @@
 *Exploit Create Android Ransomware In Termux (NO ROOT).*
 *This Tool automate task of create the android ransomware apk with encryption keys.*
 
-## Features Of Exploit:
+## Features Of Locker-Md:
 - [ ] Sign Apk
 - [x] Create Apk
 - [x] Adding icon to app
@@ -35,9 +35,7 @@
 
 ## Installation On Termux:
 
-*To install Exploit on Termux, run the following commands:*
-```bash
-pkg install python git && git clone https://github.com/popeye0013/exploit && cd exploit && chmod+ x install.sh && bash install.sh && python exploit.py
+*To install Locker-Md on Termux, run the following commands https://github.com/Coach234/Locker-md && cd exploit && chmod+ x install.sh && bash install.sh && python locker-md.py
 ```
 
 ## Screenshots:
